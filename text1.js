@@ -3,4 +3,5 @@ function abc (a, b) {
 	a = bb;
 	c = 10;
 	d = 20;
+	ksdfkajdf = askdfjak;
 }
